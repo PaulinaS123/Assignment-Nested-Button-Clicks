@@ -66,7 +66,7 @@ Without this line, both handlers would run.
 1. Clone the repository
 
 
-git clone <(https://github.com/PaulinaS123/Assignment-Nested-Button-Clicks.git)>
+git clone (https://github.com/PaulinaS123/Assignment-Nested-Button-Clicks.git)
 
 
 2. Go to project folder
